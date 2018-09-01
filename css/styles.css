@@ -71,7 +71,7 @@ li
 {
     background-color: #C5B358;
     width: 851px;
-    height: 90px;
+    height: 120px;
     padding: 10px;
     font-family: sans-serif;
     font-size: 18px;
@@ -89,7 +89,7 @@ li
     background-repeat: no-repeat;
     width: 371px;
     height: 76px;
-    margin-top: 30px;
+    margin-top: 15px;
     margin-left: 20px;
     float: left;
 }
@@ -100,7 +100,9 @@ li
     text-align: right;
     color: #C5B358;
     font-family: sans-serif;
-    font-size: 16px;
-    margin-top: 40px;
+    font-size: 9px;
+    margin-top: 10px;
     margin-right: 20px;
+    width: 371px;
+    height: 80px;
 }
